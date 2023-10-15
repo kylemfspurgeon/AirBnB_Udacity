@@ -1,6 +1,6 @@
 # AirBnB_Udacity
 
-AirBnB: Boaton and Seattle
+AirBnB: Boston and Seattle
 
 This repository contains an analysis of data from AirBnBs in both Boston and Seattle.
 
@@ -10,14 +10,14 @@ This analysis aims to answer three main questions:
 
 What are the main economic differences or infleuences for AirBnBs between Seattle and Boston?
      Is price a key factor to occupancy?
-     Are more verifications a kay factor for occupancy?
+     Are more verifications a key factor for occupancy?
      
 
 What is important to AirBnB renters for the two cities?
      Do bedrooms, whole house options, long rules lists, etc detract occupancy?
 
 Are there correlations between the two above questions?
-    How does preice and occupancy relate to options and vice versa?
+    How does price and occupancy relate to options and vice versa?
 
 With a bonus question: Is the west coast really the best coast...for AirBnb?
 
