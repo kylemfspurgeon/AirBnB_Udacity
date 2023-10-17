@@ -1,4 +1,5 @@
 # AirBnB_Udacity
+https://medium.com/@alfrednon_37174/where-does-property-go-further-an-analysis-of-airbnb-trans-in-boston-vs-seattle-7698ac59f4a8
 
 AirBnB: Boston and Seattle
 
